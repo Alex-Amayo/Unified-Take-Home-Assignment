@@ -2,7 +2,7 @@
 
 # Zero To App: React Native Template Case Study 
 
-Developing Zero To App, an open source React Native template that aims to accelerate the process of building minimum viable products seamlessly on both mobile and web with a shared codebase in React Native.
+Developing Zero To App, an open source React Native template that aims to accelerate the process of building minimum viable product mobile apps seamlessly on both mobile and web with a shared codebase in React Native.
 
  [Web Demo](https://zero-to-app.vercel.app/)
  
@@ -153,5 +153,5 @@ This modular approach would enable me to have a  different development and testi
 
 ### Conclusion
 
-I’m testing this project by building simple demo apps like [Eat Out Food Finder](https://eat-out-food-finder.vercel.app/). This helps me test how re-usable the components are, find potential bugs and areas of development by develop and maintain an app built using the Zero To App Template, subsequently iterating and refining the package with the hope doption and community innovlement increase over time. 
+I’m testing this project by building simple demo apps like [Eat Out Food Finder](https://eat-out-food-finder.vercel.app/). This helps me test how re-usable the components are, find potential bugs and areas of impprovement by develoing and maintain apps built using the Zero To App Template, subsequently iterating and refining the package with the hope doption and community innovlement increase over time. 
 
